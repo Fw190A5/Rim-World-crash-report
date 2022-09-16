@@ -1,0 +1,1582 @@
+Mono path[0] = 'D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Managed'
+Mono config path = 'D:/SteamLibrary/steamapps/common/RimWorld/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.30f1 (e8c891080a1f)
+[Subsystems] Discovering subsystems at path D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f99)
+    Vendor:   
+    VRAM:     3962 MB
+    Driver:   31.0.15.1694
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.230 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.648100 ms
+RimWorld 1.3.3389 rev40
+Created WorkshopItem for 2801452324 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2817031687 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2816826107 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2817638066 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2794752505 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2777403116 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2553070485 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2649305776 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2807479086 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2296697286 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2624033197 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2773133938 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2557864653 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2479389928 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2815257162 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2813382144 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2426119067 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2407128339 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2585577254 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2479704821 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2587715763 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2575097304 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2595845544 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2563508022 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2571189146 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2584269293 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2785957782 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2608762624 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2439736083 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2762496067 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2732147678 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2574315206 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2563506048 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2581651314 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2652962609 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2563507593 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2789472498 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2788783924 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2575938407 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2314407956 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2534328163 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2538518381 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2556008664 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2590846181 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2633514537 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2672713192 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2688941031 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2688962099 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2728000958 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2802660759 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2809971989 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2812128260 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2822058610 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2822103470 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2822936793 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2826539854 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2830358905 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2844129100 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2845010567 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2849477421 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2850166678 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2859965620 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2275655161 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2634067380 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2654432921 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2670355481 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 2773943594 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC0481060.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001907C8B6370.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC0384020.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC0628480.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC0639690.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC03C5650.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC03CAA60.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000019052ABD660.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC03D7480.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC0783520.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC08C0C20.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000019052B072A0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC0908850.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC090BA60.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC092BE70.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC0938E80.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC095AAA0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC0965CB0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC09702D0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC0AAF180.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC0AB7BB0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC0ABA1C0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC0AE33E0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC0AE89F0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC0AEDA00.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC0AF1E10.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC0B1E240.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC0B21660.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC0B4C490.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC0B730A0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC0B8BAD0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC0C92010.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC1B35040.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC0EC8010.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC0D13B60.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC0EE6A40.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC0EE8250.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC0FCC490.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC0FFC4A0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC10054B0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC0EB21D0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC100E4C0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC10124D0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC10194E0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC101F4F0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC102ED10.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC103B730.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC1041760.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC1045170.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC1071190.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC10801A0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC10911C0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC10933D0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC109A3E0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC10A6400.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC10AC410.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC10B2420.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC10B5630.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC10BD440.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC10C1450.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC10CA460.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC10CF470.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC10D2080.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC10D8E90.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC10DAEB0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC10DCAC0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC10DEED0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC10E2CE0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC112BB20.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC112E730.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC113C750.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC114CB90.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC1168BB0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC1169DC0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC11A1620.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC11A6630.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC11AC040.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC11B0050.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC11D8E80.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC11FAEA0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC11FC8B0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC12008D0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC126D010.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC1233B80.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC1287C30.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC1295840.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC1296E50.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC1298460.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC1E40090.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC1E492A0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC1F5B010.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC1F5DC20.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC1F2F3B0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC1F82850.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC1FB2A60.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC1FE5020.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC1FEFC30.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC20B7C50.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC2196080.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC21A92B0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC21AE8C0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC21D8AD0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC21DAEE0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC1F4F4B0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC21F6710.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC2208120.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC1F534D0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC221C160.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC2221370.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC2331220.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC233FC40.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC2343050.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC23C56A0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC23DAEC0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC23E80E0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC2407D00.dll
+ReflectionTypeLoadException getting types in assembly MoreFactionInteraction: System.Reflection.ReflectionTypeLoadException: Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.ModAssemblyHandler.AssemblyIsUsable (System.Reflection.Assembly asm) [0x00000] in <81af9f8a18324e17b286924a43555a7c>:0 
+
+Loader exceptions:
+   => System.TypeLoadException: Could not resolve type with token 01000059 (from typeref, class/assembly Harmony.CodeInstruction, 0Harmony, Version=1.2.0.1, Culture=neutral, PublicKeyToken=null)
+   => System.TypeLoadException: Could not resolve type with token 01000059 (from typeref, class/assembly Harmony.CodeInstruction, 0Harmony, Version=1.2.0.1, Culture=neutral, PublicKeyToken=null)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC247B890.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000019052905E90.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC249C440.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC24A1A50.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC24AD060.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC24AE270.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC24D1A90.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC24D9AA0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC24EBAB0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC24F06C0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC24F2EE0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC24F46F0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC24F5F00.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC2526B20.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC2541220.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC2546240.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC261A020.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC29C0110.dll
+[9/16/2022 12:53:39 PM] [BetterLoading] Verifying all mods loaded properly...
+[BetterLoading] 1 assemblies for More Faction Interaction failed to load! The ones that didn't load are: D:\SteamLibrary\steamapps\workshop\content\294100\1454024362\Assemblies\0Harmony.dll, D:\SteamLibrary\steamapps\workshop\content\294100\1454024362\Assemblies\MoreFactionInteraction.dll 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[BetterLoading] Got 2 messages that identify those failures. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[BetterLoading] Not showing loading screen, not all mods loaded successfully so we would be unstable.
+[HugsLib] version 9.0.1
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000018EC2DE5440.dll
+[HugsLib] early-initializing AllowTool
+Error while instantiating a mod of type CombatExtended.Loader.Loader: System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Reflection.ReflectionTypeLoadException: Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at CombatExtended.Compatibility.Patches+<>c.<.ctor>b__1_0 (System.Reflection.Assembly x) [0x00000] in <aea1af637f9646c2beed99e979576ecc>:0 
+  at System.Linq.Enumerable+SelectManySingleSelectorIterator`2[TSource,TResult].MoveNext () [0x00051] in <351e49e2a5bf4fd6beabb458ce2255f3>:0 
+  at System.Linq.Enumerable+WhereEnumerableIterator`1[TSource].MoveNext () [0x0004e] in <351e49e2a5bf4fd6beabb458ce2255f3>:0 
+  at CombatExtended.Compatibility.Patches..ctor () [0x000b9] in <aea1af637f9646c2beed99e979576ecc>:0 
+  at CombatExtended.Controller..ctor () [0x00008] in <aea1af637f9646c2beed99e979576ecc>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod.InternalInvoke(System.Reflection.MonoCMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00002] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00014] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Reflection.MonoCMethod.DoInvoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0007a] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Reflection.MonoCMethod.Invoke (System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Reflection.ConstructorInfo.Invoke (System.Object[] parameters) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at CombatExtended.Loader.Loader..ctor (Verse.ModContentPack content) [0x00188] in <0275ebaf456d4813993fa1ed604d3513>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod.InternalInvoke(System.Reflection.MonoCMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00002] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00014] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Reflection.MonoCMethod.DoInvoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0007a] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Reflection.MonoCMethod.Invoke (System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceImpl (System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes, System.Threading.StackCrawlMark& stackMark) [0x00213] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes) [0x00095] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Object[] args) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.LoadedModManager.CreateModClasses () [0x00076] in <81af9f8a18324e17b286924a43555a7c>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Interaction Bubbles v2.4] Initialized
+[VanillaAchievementsExpanded] version 1.3.7862
+Ugh You Got Me: Trying to patch MentalState_SocialFighting.ShouldStop.get.
+Ugh You Got Me: Patched MentalState_SocialFighting.ShouldStop.get.
+Ugh You Got Me: Trying to patch JobGiver_SocialFighting.TryGiveJob
+Ugh You Got Me: Patched JobGiver_SocialFighting.TryGiveJob.
+LWM Deep Storage: activated compatibility patch for Combat Extended
+Could not find a type named MoreFactionInteraction.MoreFactionWar.MainTabWindow_FactionWar 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find a type named MoreFactionInteraction.World_Incidents.WorldObjectComp_CaravanComp 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find type named MoreFactionInteraction.World_Incidents.WorldObjectCompProperties_BumperCrop from node <li Class="MoreFactionInteraction.World_Incidents.WorldObjectCompProperties_BumperCrop" /> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find type named MoreFactionInteraction.World_Incidents.WorldObjectCompProperties_BumperCrop from node <li Class="MoreFactionInteraction.World_Incidents.WorldObjectCompProperties_BumperCrop" /> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find type named MoreFactionInteraction.World_Incidents.WorldObjectCompProperties_BumperCrop from node <li Class="MoreFactionInteraction.World_Incidents.WorldObjectCompProperties_BumperCrop" /> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find a type named MoreFactionInteraction.ChoiceLetter_ExtortionDemand 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find a type named MoreFactionInteraction.ChoiceLetter_DiplomaticMarriage 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find type named MoreFactionInteraction.StockGenerator_BuyCategory from node <li Class="MoreFactionInteraction.StockGenerator_BuyCategory"><thingCategoryDef>Apparel</thingCategoryDef></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception loading list element from XML: System.MissingMethodException: Default constructor not found for type RimWorld.StockGenerator
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x0007b] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.DirectXmlToObject.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x00519] in <81af9f8a18324e17b286924a43555a7c>:0 
+  at Verse.DirectXmlToObject.ListFromXml[T] (System.Xml.XmlNode listRootNode) [0x000ab] in <81af9f8a18324e17b286924a43555a7c>:0 
+XML:
+<stockGenerators><li Class="StockGenerator_SingleDef"><thingDef>Silver</thingDef><countRange><min>250</min><max>410</max></countRange></li><li Class="MoreFactionInteraction.StockGenerator_BuyCategory"><thingCategoryDef>Apparel</thingCategoryDef></li></stockGenerators> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find type named MoreFactionInteraction.StockGenerator_BuyCategory from node <li Class="MoreFactionInteraction.StockGenerator_BuyCategory"><thingCategoryDef>PlantFoodRaw</thingCategoryDef></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception loading list element from XML: System.MissingMethodException: Default constructor not found for type RimWorld.StockGenerator
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x0007b] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.DirectXmlToObject.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x00519] in <81af9f8a18324e17b286924a43555a7c>:0 
+  at Verse.DirectXmlToObject.ListFromXml[T] (System.Xml.XmlNode listRootNode) [0x000ab] in <81af9f8a18324e17b286924a43555a7c>:0 
+XML:
+<stockGenerators><li Class="StockGenerator_SingleDef"><thingDef>Silver</thingDef><countRange><min>250</min><max>410</max></countRange></li><li Class="MoreFactionInteraction.StockGenerator_BuyCategory"><thingCategoryDef>PlantFoodRaw</thingCategoryDef></li></stockGenerators> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find type named MoreFactionInteraction.StockGenerator_BuyCategory from node <li Class="MoreFactionInteraction.StockGenerator_BuyCategory"><thingCategoryDef>Weapons</thingCategoryDef></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception loading list element from XML: System.MissingMethodException: Default constructor not found for type RimWorld.StockGenerator
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x0007b] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.DirectXmlToObject.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x00519] in <81af9f8a18324e17b286924a43555a7c>:0 
+  at Verse.DirectXmlToObject.ListFromXml[T] (System.Xml.XmlNode listRootNode) [0x000ab] in <81af9f8a18324e17b286924a43555a7c>:0 
+XML:
+<stockGenerators><li Class="StockGenerator_SingleDef"><thingDef>Silver</thingDef><countRange><min>250</min><max>410</max></countRange></li><li Class="MoreFactionInteraction.StockGenerator_BuyCategory"><thingCategoryDef>Weapons</thingCategoryDef></li></stockGenerators> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find type named MoreFactionInteraction.StockGenerator_BuyCategory from node <li Class="MoreFactionInteraction.StockGenerator_BuyCategory"><thingCategoryDef>Medicine</thingCategoryDef></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception loading list element from XML: System.MissingMethodException: Default constructor not found for type RimWorld.StockGenerator
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x0007b] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.DirectXmlToObject.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x00519] in <81af9f8a18324e17b286924a43555a7c>:0 
+  at Verse.DirectXmlToObject.ListFromXml[T] (System.Xml.XmlNode listRootNode) [0x000ab] in <81af9f8a18324e17b286924a43555a7c>:0 
+XML:
+<stockGenerators><li Class="StockGenerator_SingleDef"><thingDef>Silver</thingDef><countRange><min>250</min><max>410</max></countRange></li><li Class="MoreFactionInteraction.StockGenerator_BuyCategory"><thingCategoryDef>Medicine</thingCategoryDef></li></stockGenerators> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find a type named MoreFactionInteraction.World_Incidents.IncidentWorker_HerdMigration_Ambush 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find a type named MoreFactionInteraction.IncidentWorker_ReverseTradeRequest 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find a type named MoreFactionInteraction.IncidentWorker_Extortion 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find a type named MoreFactionInteraction.MoreFactionWar.IncidentWorker_WoundedCombatants 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find a type named MoreFactionInteraction.IncidentWorker_RoadWorks 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find a type named MoreFactionInteraction.IncidentWorker_DiplomaticMarriage 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find a type named MoreFactionInteraction.IncidentWorker_MysticalShaman 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find a type named MoreFactionInteraction.World_Incidents.IncidentWorker_HuntersLodge 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find a type named MoreFactionInteraction.MoreFactionWar.IncidentWorker_SettlementBaseAttack 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find a type named MoreFactionInteraction.World_Incidents.IncidentWorker_BumperCrop 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find a type named MoreFactionInteraction.MoreFactionWar.IncidentWorker_FactionPeaceTalks 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find a type named MoreFactionInteraction.More_Flavour.IncidentWorker_AnnualExpo 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find a type named MoreFactionInteraction.IncidentWorker_SpreadingOutpost 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find type named MoreFactionInteraction.World_Incidents.GenStep_SymbolResolver.SymbolResolver_Interior_Kitchen from node <li Class="MoreFactionInteraction.World_Incidents.GenStep_SymbolResolver.SymbolResolver_Interior_Kitchen" /> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception loading list element from XML: System.MissingMethodException: Default constructor not found for type RimWorld.BaseGen.SymbolResolver
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x0007b] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.DirectXmlToObject.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x00519] in <81af9f8a18324e17b286924a43555a7c>:0 
+  at Verse.DirectXmlToObject.ListFromXml[T] (System.Xml.XmlNode listRootNode) [0x000ab] in <81af9f8a18324e17b286924a43555a7c>:0 
+XML:
+<resolvers><li Class="MoreFactionInteraction.World_Incidents.GenStep_SymbolResolver.SymbolResolver_Interior_Kitchen" /></resolvers> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find type named MoreFactionInteraction.World_Incidents.GenStep_SymbolResolver.SymbolResolver_FillWithKitchen from node <li Class="MoreFactionInteraction.World_Incidents.GenStep_SymbolResolver.SymbolResolver_FillWithKitchen" /> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception loading list element from XML: System.MissingMethodException: Default constructor not found for type RimWorld.BaseGen.SymbolResolver
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x0007b] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.DirectXmlToObject.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x00519] in <81af9f8a18324e17b286924a43555a7c>:0 
+  at Verse.DirectXmlToObject.ListFromXml[T] (System.Xml.XmlNode listRootNode) [0x000ab] in <81af9f8a18324e17b286924a43555a7c>:0 
+XML:
+<resolvers><li Class="MoreFactionInteraction.World_Incidents.GenStep_SymbolResolver.SymbolResolver_FillWithKitchen" /></resolvers> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find type named MoreFactionInteraction.World_Incidents.GenStep_SymbolResolver.MFI_SymbolResolver_BasePart_Indoors from node <li Class="MoreFactionInteraction.World_Incidents.GenStep_SymbolResolver.MFI_SymbolResolver_BasePart_Indoors" /> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception loading list element from XML: System.MissingMethodException: Default constructor not found for type RimWorld.BaseGen.SymbolResolver
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x0007b] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.DirectXmlToObject.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x00519] in <81af9f8a18324e17b286924a43555a7c>:0 
+  at Verse.DirectXmlToObject.ListFromXml[T] (System.Xml.XmlNode listRootNode) [0x000ab] in <81af9f8a18324e17b286924a43555a7c>:0 
+XML:
+<resolvers><li Class="MoreFactionInteraction.World_Incidents.GenStep_SymbolResolver.MFI_SymbolResolver_BasePart_Indoors" /></resolvers> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find type named MoreFactionInteraction.World_Incidents.GenStep_SymbolResolver.MFI_SymbolResolver_BasePart_Indoors_Division_Split from node <li Class="MoreFactionInteraction.World_Incidents.GenStep_SymbolResolver.MFI_SymbolResolver_BasePart_Indoors_Division_Split"><minRectSize>(3, 3)</minRectSize></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception loading list element from XML: System.MissingMethodException: Default constructor not found for type RimWorld.BaseGen.SymbolResolver
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x0007b] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.DirectXmlToObject.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x00519] in <81af9f8a18324e17b286924a43555a7c>:0 
+  at Verse.DirectXmlToObject.ListFromXml[T] (System.Xml.XmlNode listRootNode) [0x000ab] in <81af9f8a18324e17b286924a43555a7c>:0 
+XML:
+<resolvers><li Class="MoreFactionInteraction.World_Incidents.GenStep_SymbolResolver.MFI_SymbolResolver_BasePart_Indoors_Division_Split"><minRectSize>(3, 3)</minRectSize></li></resolvers> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find type named MoreFactionInteraction.World_Incidents.GenStep_SymbolResolver.SymbolResolver_BasePart_Indoors_Leaf_Kitchen from node <li Class="MoreFactionInteraction.World_Incidents.GenStep_SymbolResolver.SymbolResolver_BasePart_Indoors_Leaf_Kitchen"><minRectSize>(5, 5)</minRectSize></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception loading list element from XML: System.MissingMethodException: Default constructor not found for type RimWorld.BaseGen.SymbolResolver
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x0007b] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.DirectXmlToObject.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x00519] in <81af9f8a18324e17b286924a43555a7c>:0 
+  at Verse.DirectXmlToObject.ListFromXml[T] (System.Xml.XmlNode listRootNode) [0x000ab] in <81af9f8a18324e17b286924a43555a7c>:0 
+XML:
+<resolvers><li Class="SymbolResolver_BasePart_Indoors_Leaf_Barracks"><minRectSize>(3, 3)</minRectSize><selectionWeight>0.45</selectionWeight></li><li Class="MoreFactionInteraction.World_Incidents.GenStep_SymbolResolver.SymbolResolver_BasePart_Indoors_Leaf_Kitchen"><minRectSize>(5, 5)</minRectSize></li><li Class="SymbolResolver_BasePart_Indoors_Leaf_Brewery"><minRectSize>(4, 4)</minRectSize><selectionWeight>0.05</selectionWeight></li><li Class="SymbolResolver_BasePart_Indoors_Leaf_DiningRoom"><minRectSize>(5, 5)</minRectSize><selectionWeight>0.45</selectionWeight></li><li Class="MoreFactionInteraction.World_Incidents.GenStep_SymbolResolver.MFI_SymbolResolver_BasePart_Indoors_Leaf_GloriousPotat"><minRectSize>(4, 4)</minRectSize><selectionWeight>0.3</selectionWeight></li></resolvers> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find type named MoreFactionInteraction.World_Incidents.GenStep_SymbolResolver.MFI_SymbolResolver_BasePart_Indoors_Leaf_GloriousPotat from node <li Class="MoreFactionInteraction.World_Incidents.GenStep_SymbolResolver.MFI_SymbolResolver_BasePart_Indoors_Leaf_GloriousPotat"><minRectSize>(4, 4)</minRectSize><selectionWeight>0.3</selectionWeight></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception loading list element from XML: System.MissingMethodException: Default constructor not found for type RimWorld.BaseGen.SymbolResolver
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x0007b] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.DirectXmlToObject.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x00519] in <81af9f8a18324e17b286924a43555a7c>:0 
+  at Verse.DirectXmlToObject.ListFromXml[T] (System.Xml.XmlNode listRootNode) [0x000ab] in <81af9f8a18324e17b286924a43555a7c>:0 
+XML:
+<resolvers><li Class="SymbolResolver_BasePart_Indoors_Leaf_Barracks"><minRectSize>(3, 3)</minRectSize><selectionWeight>0.45</selectionWeight></li><li Class="MoreFactionInteraction.World_Incidents.GenStep_SymbolResolver.SymbolResolver_BasePart_Indoors_Leaf_Kitchen"><minRectSize>(5, 5)</minRectSize></li><li Class="SymbolResolver_BasePart_Indoors_Leaf_Brewery"><minRectSize>(4, 4)</minRectSize><selectionWeight>0.05</selectionWeight></li><li Class="SymbolResolver_BasePart_Indoors_Leaf_DiningRoom"><minRectSize>(5, 5)</minRectSize><selectionWeight>0.45</selectionWeight></li><li Class="MoreFactionInteraction.World_Incidents.GenStep_SymbolResolver.MFI_SymbolResolver_BasePart_Indoors_Leaf_GloriousPotat"><minRectSize>(4, 4)</minRectSize><selectionWeight>0.3</selectionWeight></li></resolvers> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find type named MoreFactionInteraction.World_Incidents.SymbolResolver_HuntersLodgeBase from node <li Class="MoreFactionInteraction.World_Incidents.SymbolResolver_HuntersLodgeBase"><minRectSize>(12, 12)</minRectSize></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception loading list element from XML: System.MissingMethodException: Default constructor not found for type RimWorld.BaseGen.SymbolResolver
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x0007b] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.DirectXmlToObject.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x00519] in <81af9f8a18324e17b286924a43555a7c>:0 
+  at Verse.DirectXmlToObject.ListFromXml[T] (System.Xml.XmlNode listRootNode) [0x000ab] in <81af9f8a18324e17b286924a43555a7c>:0 
+XML:
+<resolvers><li Class="MoreFactionInteraction.World_Incidents.SymbolResolver_HuntersLodgeBase"><minRectSize>(12, 12)</minRectSize></li></resolvers> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find type named MoreFactionInteraction.World_Incidents.SymbolResolver_HuntersLodgeBigFarm from node <li Class="MoreFactionInteraction.World_Incidents.SymbolResolver_HuntersLodgeBigFarm"><minRectSize>(12, 12)</minRectSize></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception loading list element from XML: System.MissingMethodException: Default constructor not found for type RimWorld.BaseGen.SymbolResolver
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x0007b] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.DirectXmlToObject.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x00519] in <81af9f8a18324e17b286924a43555a7c>:0 
+  at Verse.DirectXmlToObject.ListFromXml[T] (System.Xml.XmlNode listRootNode) [0x000ab] in <81af9f8a18324e17b286924a43555a7c>:0 
+XML:
+<resolvers><li Class="MoreFactionInteraction.World_Incidents.SymbolResolver_HuntersLodgeBigFarm"><minRectSize>(12, 12)</minRectSize></li></resolvers> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find type named MoreFactionInteraction.World_Incidents.GenStep_SymbolResolver.MFI_SymbolResolver_BasePart_Outdoors from node <li Class="MoreFactionInteraction.World_Incidents.GenStep_SymbolResolver.MFI_SymbolResolver_BasePart_Outdoors" /> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception loading list element from XML: System.MissingMethodException: Default constructor not found for type RimWorld.BaseGen.SymbolResolver
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x0007b] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.DirectXmlToObject.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x00519] in <81af9f8a18324e17b286924a43555a7c>:0 
+  at Verse.DirectXmlToObject.ListFromXml[T] (System.Xml.XmlNode listRootNode) [0x000ab] in <81af9f8a18324e17b286924a43555a7c>:0 
+XML:
+<resolvers><li Class="MoreFactionInteraction.World_Incidents.GenStep_SymbolResolver.MFI_SymbolResolver_BasePart_Outdoors" /></resolvers> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find type named MoreFactionInteraction.World_Incidents.GenStep_SymbolResolver.MFI_SymbolResolver_BasePart_Outdoors_Division_Grid from node <li Class="MoreFactionInteraction.World_Incidents.GenStep_SymbolResolver.MFI_SymbolResolver_BasePart_Outdoors_Division_Grid"><minRectSize>(12, 12)</minRectSize></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception loading list element from XML: System.MissingMethodException: Default constructor not found for type RimWorld.BaseGen.SymbolResolver
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x0007b] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.DirectXmlToObject.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x00519] in <81af9f8a18324e17b286924a43555a7c>:0 
+  at Verse.DirectXmlToObject.ListFromXml[T] (System.Xml.XmlNode listRootNode) [0x000ab] in <81af9f8a18324e17b286924a43555a7c>:0 
+XML:
+<resolvers><li Class="MoreFactionInteraction.World_Incidents.GenStep_SymbolResolver.MFI_SymbolResolver_BasePart_Outdoors_Division_Grid"><minRectSize>(12, 12)</minRectSize></li><li Class="MoreFactionInteraction.World_Incidents.GenStep_SymbolResolver.MFI_SymbolResolver_BasePart_Outdoors_Division_Split"><minRectSize>(3, 3)</minRectSize></li></resolvers> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find type named MoreFactionInteraction.World_Incidents.GenStep_SymbolResolver.MFI_SymbolResolver_BasePart_Outdoors_Division_Split from node <li Class="MoreFactionInteraction.World_Incidents.GenStep_SymbolResolver.MFI_SymbolResolver_BasePart_Outdoors_Division_Split"><minRectSize>(3, 3)</minRectSize></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception loading list element from XML: System.MissingMethodException: Default constructor not found for type RimWorld.BaseGen.SymbolResolver
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x0007b] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.DirectXmlToObject.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x00519] in <81af9f8a18324e17b286924a43555a7c>:0 
+  at Verse.DirectXmlToObject.ListFromXml[T] (System.Xml.XmlNode listRootNode) [0x000ab] in <81af9f8a18324e17b286924a43555a7c>:0 
+XML:
+<resolvers><li Class="MoreFactionInteraction.World_Incidents.GenStep_SymbolResolver.MFI_SymbolResolver_BasePart_Outdoors_Division_Grid"><minRectSize>(12, 12)</minRectSize></li><li Class="MoreFactionInteraction.World_Incidents.GenStep_SymbolResolver.MFI_SymbolResolver_BasePart_Outdoors_Division_Split"><minRectSize>(3, 3)</minRectSize></li></resolvers> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find type named MoreFactionInteraction.World_Incidents.GenStep_SymbolResolver.MFI_SymbolResolver_BasePart_Outdoors_LeafPossiblyDecorated from node <li Class="MoreFactionInteraction.World_Incidents.GenStep_SymbolResolver.MFI_SymbolResolver_BasePart_Outdoors_LeafPossiblyDecorated" /> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception loading list element from XML: System.MissingMethodException: Default constructor not found for type RimWorld.BaseGen.SymbolResolver
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x0007b] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.DirectXmlToObject.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x00519] in <81af9f8a18324e17b286924a43555a7c>:0 
+  at Verse.DirectXmlToObject.ListFromXml[T] (System.Xml.XmlNode listRootNode) [0x000ab] in <81af9f8a18324e17b286924a43555a7c>:0 
+XML:
+<resolvers><li Class="MoreFactionInteraction.World_Incidents.GenStep_SymbolResolver.MFI_SymbolResolver_BasePart_Outdoors_LeafPossiblyDecorated" /></resolvers> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find type named MoreFactionInteraction.World_Incidents.GenStep_SymbolResolver.MFI_SymbolResolver_BasePart_Outdoors_LeafDecorated_EdgeStreet from node <li Class="MoreFactionInteraction.World_Incidents.GenStep_SymbolResolver.MFI_SymbolResolver_BasePart_Outdoors_LeafDecorated_EdgeStreet"><minRectSize>(3, 3)</minRectSize></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception loading list element from XML: System.MissingMethodException: Default constructor not found for type RimWorld.BaseGen.SymbolResolver
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x0007b] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.DirectXmlToObject.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x00519] in <81af9f8a18324e17b286924a43555a7c>:0 
+  at Verse.DirectXmlToObject.ListFromXml[T] (System.Xml.XmlNode listRootNode) [0x000ab] in <81af9f8a18324e17b286924a43555a7c>:0 
+XML:
+<resolvers><li Class="MoreFactionInteraction.World_Incidents.GenStep_SymbolResolver.MFI_SymbolResolver_BasePart_Outdoors_LeafDecorated_EdgeStreet"><minRectSize>(3, 3)</minRectSize></li><li Class="MoreFactionInteraction.World_Incidents.GenStep_SymbolResolver.MFI_SymbolResolver_BasePart_Outdoors_LeafDecorated_RandomInnerRect"><minRectSize>(3, 3)</minRectSize></li></resolvers> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find type named MoreFactionInteraction.World_Incidents.GenStep_SymbolResolver.MFI_SymbolResolver_BasePart_Outdoors_LeafDecorated_RandomInnerRect from node <li Class="MoreFactionInteraction.World_Incidents.GenStep_SymbolResolver.MFI_SymbolResolver_BasePart_Outdoors_LeafDecorated_RandomInnerRect"><minRectSize>(3, 3)</minRectSize></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception loading list element from XML: System.MissingMethodException: Default constructor not found for type RimWorld.BaseGen.SymbolResolver
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x0007b] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.DirectXmlToObject.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x00519] in <81af9f8a18324e17b286924a43555a7c>:0 
+  at Verse.DirectXmlToObject.ListFromXml[T] (System.Xml.XmlNode listRootNode) [0x000ab] in <81af9f8a18324e17b286924a43555a7c>:0 
+XML:
+<resolvers><li Class="MoreFactionInteraction.World_Incidents.GenStep_SymbolResolver.MFI_SymbolResolver_BasePart_Outdoors_LeafDecorated_EdgeStreet"><minRectSize>(3, 3)</minRectSize></li><li Class="MoreFactionInteraction.World_Incidents.GenStep_SymbolResolver.MFI_SymbolResolver_BasePart_Outdoors_LeafDecorated_RandomInnerRect"><minRectSize>(3, 3)</minRectSize></li></resolvers> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find type named MoreFactionInteraction.World_Incidents.GenStep_SymbolResolver.MFI_SymbolResolver_BasePart_Outdoors_Leaf_Farm from node <li Class="MoreFactionInteraction.World_Incidents.GenStep_SymbolResolver.MFI_SymbolResolver_BasePart_Outdoors_Leaf_Farm" /> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception loading list element from XML: System.MissingMethodException: Default constructor not found for type RimWorld.BaseGen.SymbolResolver
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x0007b] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.DirectXmlToObject.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x00519] in <81af9f8a18324e17b286924a43555a7c>:0 
+  at Verse.DirectXmlToObject.ListFromXml[T] (System.Xml.XmlNode listRootNode) [0x000ab] in <81af9f8a18324e17b286924a43555a7c>:0 
+XML:
+<resolvers><li Class="SymbolResolver_BasePart_Outdoors_Leaf_Empty"><selectionWeight>0.01</selectionWeight></li><li Class="MoreFactionInteraction.World_Incidents.GenStep_SymbolResolver.MFI_SymbolResolver_BasePart_Outdoors_Leaf_Farm" /><li Class="MoreFactionInteraction.World_Incidents.GenStep_SymbolResolver.MFI_SymbolResolver_BasePart_Outdoors_Leaf_Building"><minRectSize>(4, 4)</minRectSize><selectionWeight>0.65</selectionWeight></li></resolvers> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find type named MoreFactionInteraction.World_Incidents.GenStep_SymbolResolver.MFI_SymbolResolver_BasePart_Outdoors_Leaf_Building from node <li Class="MoreFactionInteraction.World_Incidents.GenStep_SymbolResolver.MFI_SymbolResolver_BasePart_Outdoors_Leaf_Building"><minRectSize>(4, 4)</minRectSize><selectionWeight>0.65</selectionWeight></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception loading list element from XML: System.MissingMethodException: Default constructor not found for type RimWorld.BaseGen.SymbolResolver
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x0007b] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.DirectXmlToObject.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x00519] in <81af9f8a18324e17b286924a43555a7c>:0 
+  at Verse.DirectXmlToObject.ListFromXml[T] (System.Xml.XmlNode listRootNode) [0x000ab] in <81af9f8a18324e17b286924a43555a7c>:0 
+XML:
+<resolvers><li Class="SymbolResolver_BasePart_Outdoors_Leaf_Empty"><selectionWeight>0.01</selectionWeight></li><li Class="MoreFactionInteraction.World_Incidents.GenStep_SymbolResolver.MFI_SymbolResolver_BasePart_Outdoors_Leaf_Farm" /><li Class="MoreFactionInteraction.World_Incidents.GenStep_SymbolResolver.MFI_SymbolResolver_BasePart_Outdoors_Leaf_Building"><minRectSize>(4, 4)</minRectSize><selectionWeight>0.65</selectionWeight></li></resolvers> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <descriptionDialogue>There's usually a large herd of {0} coming through around this time of year</descriptionDialogue> doesn't correspond to any field in type SitePartDef. Context: <SitePartDef><defName>MFI_HuntersLodgePart</defName><label>Hunter's lodge</label><description>A small outpost, used by friendly factions as a hunting base.</description><siteTexture>World/WorldObjects/Sites/GenericSite</siteTexture><expandingIconTexture>World/WorldObjects/Expanding/Sites/Nothing</expandingIconTexture><descriptionDialogue>There's usually a large herd of {0} coming through around this time of year</descriptionDialogue><workerClass>MoreFactionInteraction.World_Incidents.SitePartWorker_MigratoryHerd</workerClass><requiresFaction>true</requiresFaction><showFactionInInspectString>true</showFactionInInspectString><approachOrderString>Visit {0}</approachOrderString><approachingReportString>Visiting {0}</approachingReportString><arrivedLetter>Your caravan has arrived at the hunter's lodge. It seems nobody is here, but they've obviously been expecting you and have made the place hospitable.</arrivedLetter><arrivedLetterDef>PositiveEvent</arrivedLetterDef><tags><li>MigratoryHerd</li></tags></SitePartDef> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find a type named MoreFactionInteraction.World_Incidents.SitePartWorker_MigratoryHerd 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find type named MoreFactionInteraction.World_Incidents.GenStep_HuntersLodge from node <genStep Class="MoreFactionInteraction.World_Incidents.GenStep_HuntersLodge" /> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception loading from System.Xml.XmlElement: System.MissingMethodException: Default constructor not found for type Verse.GenStep
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x0007b] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.DirectXmlToObject.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x00519] in <81af9f8a18324e17b286924a43555a7c>:0 
+  at Verse.DirectXmlToObject.ObjectFromXmlReflection[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x00000] in <81af9f8a18324e17b286924a43555a7c>:0 
+  at Verse.DirectXmlToObject.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x00917] in <81af9f8a18324e17b286924a43555a7c>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception while executing PostLoad on MFI_HuntersLodgePart: System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at Verse.GenStepDef.PostLoad () [0x00006] in <81af9f8a18324e17b286924a43555a7c>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.DirectXmlToObject.TryDoPostLoad (System.Object obj) [0x00024] in <81af9f8a18324e17b286924a43555a7c>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find a type named MoreFactionInteraction.FactionWarPeaceTalks 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find a type named MoreFactionInteraction.More_Flavour.AnnualExpo 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find a type named MoreFactionInteraction.More_Flavour.MysticalShaman 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find a type named MoreFactionInteraction.WorldObject_RoadConstruction 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 8.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named MechSerumNeurotrainer (wanter=thingDefs) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named MechSerumNeurotrainer (wanter=thingDefs) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named MechSerumNeurotrainer (wanter=thingDefs) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.IncidentCategoryDef named WorldQuest found to give to RimWorld.IncidentDef MFI_Quest_PeaceTalks 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.IncidentCategoryDef named WorldQuest found to give to RimWorld.IncidentDef MFI_AnnualExpo 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod RimPy Mod Manager Database did not load any content. Following load folders were used:
+  - D:\SteamLibrary\steamapps\workshop\content\294100\1847679158 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Translation data for language Simplified Chinese has 2155 errors. Generate translation report for more info. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[SRTS Expanded] Compatibility with Save our Ship 2 and Combat Extended are temporarily disabled at the moment. SoS2 compatibility will happen soon(ish), CE compatibility will not. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000191BBC77050.dll
+Error in static constructor of CombatExtended.AmmoGeneralizer: System.TypeInitializationException: The type initializer for 'CombatExtended.AmmoGeneralizer' threw an exception. ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at CombatExtended.AmmoGeneralizer..cctor () [0x00001] in <aea1af637f9646c2beed99e979576ecc>:0 
+   --- End of inner exception stack trace ---
+  at (wrapper managed-to-native) System.Runtime.CompilerServices.RuntimeHelpers.RunClassConstructor(intptr)
+  at System.Runtime.CompilerServices.RuntimeHelpers.RunClassConstructor (System.RuntimeTypeHandle type) [0x0002a] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.StaticConstructorOnStartupUtility.CallAll () [0x0001a] in <81af9f8a18324e17b286924a43555a7c>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error in static constructor of CombatExtended.ApparelAutoPatcher: System.TypeInitializationException: The type initializer for 'CombatExtended.ApparelAutoPatcher' threw an exception. ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at CombatExtended.ApparelAutoPatcher..cctor () [0x00007] in <aea1af637f9646c2beed99e979576ecc>:0 
+   --- End of inner exception stack trace ---
+  at (wrapper managed-to-native) System.Runtime.CompilerServices.RuntimeHelpers.RunClassConstructor(intptr)
+  at System.Runtime.CompilerServices.RuntimeHelpers.RunClassConstructor (System.RuntimeTypeHandle type) [0x0002a] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.StaticConstructorOnStartupUtility.CallAll () [0x0001a] in <81af9f8a18324e17b286924a43555a7c>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error in static constructor of CombatExtended.GunAutoPatcher: System.TypeInitializationException: The type initializer for 'CombatExtended.GunAutoPatcher' threw an exception. ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at CombatExtended.GunAutoPatcher..cctor () [0x00001] in <aea1af637f9646c2beed99e979576ecc>:0 
+   --- End of inner exception stack trace ---
+  at (wrapper managed-to-native) System.Runtime.CompilerServices.RuntimeHelpers.RunClassConstructor(intptr)
+  at System.Runtime.CompilerServices.RuntimeHelpers.RunClassConstructor (System.RuntimeTypeHandle type) [0x0002a] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.StaticConstructorOnStartupUtility.CallAll () [0x0001a] in <81af9f8a18324e17b286924a43555a7c>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error in static constructor of CombatExtended.Compatibility.WeaponToughnessAutoPatcher: System.TypeInitializationException: The type initializer for 'CombatExtended.Compatibility.WeaponToughnessAutoPatcher' threw an exception. ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at CombatExtended.Compatibility.WeaponToughnessAutoPatcher..cctor () [0x00001] in <aea1af637f9646c2beed99e979576ecc>:0 
+   --- End of inner exception stack trace ---
+  at (wrapper managed-to-native) System.Runtime.CompilerServices.RuntimeHelpers.RunClassConstructor(intptr)
+  at System.Runtime.CompilerServices.RuntimeHelpers.RunClassConstructor (System.RuntimeTypeHandle type) [0x0002a] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.StaticConstructorOnStartupUtility.CallAll () [0x0001a] in <81af9f8a18324e17b286924a43555a7c>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error in static constructor of CombatExtended.Compatibility.PawnKindPatcher: System.TypeInitializationException: The type initializer for 'CombatExtended.Compatibility.PawnKindPatcher' threw an exception. ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at CombatExtended.Compatibility.PawnKindPatcher..cctor () [0x00001] in <aea1af637f9646c2beed99e979576ecc>:0 
+   --- End of inner exception stack trace ---
+  at (wrapper managed-to-native) System.Runtime.CompilerServices.RuntimeHelpers.RunClassConstructor(intptr)
+  at System.Runtime.CompilerServices.RuntimeHelpers.RunClassConstructor (System.RuntimeTypeHandle type) [0x0002a] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.StaticConstructorOnStartupUtility.CallAll () [0x0001a] in <81af9f8a18324e17b286924a43555a7c>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error in static constructor of CombatExtended.Compatibility.RaceAutoPatcher: System.TypeInitializationException: The type initializer for 'CombatExtended.Compatibility.RaceAutoPatcher' threw an exception. ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at CombatExtended.Compatibility.RaceAutoPatcher..cctor () [0x00001] in <aea1af637f9646c2beed99e979576ecc>:0 
+   --- End of inner exception stack trace ---
+  at (wrapper managed-to-native) System.Runtime.CompilerServices.RuntimeHelpers.RunClassConstructor(intptr)
+  at System.Runtime.CompilerServices.RuntimeHelpers.RunClassConstructor (System.RuntimeTypeHandle type) [0x0002a] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.StaticConstructorOnStartupUtility.CallAll () [0x0001a] in <81af9f8a18324e17b286924a43555a7c>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Biomes! Core v2.0.0-beta] Initialized
+[Biomes! Islands v2.0.0-beta] Initialized
+MendingChangeDresserPatch did not find MendAndRecycle. Will not load patch.
+Loaded body addon variants for Rabbie
+Loading variants for Rabbielike/Tails/RBTail
+Variants found for Rabbielike/Tails/RBTail: 1
+Loading variants for Rabbielike/Ear/RBEarLA
+Variants found for Rabbielike/Ear/RBEarLA: 3
+Loading variants for Rabbielike/Ear/RBEarLB
+Variants found for Rabbielike/Ear/RBEarLB: 3
+Loading variants for Rabbielike/Ear/RBEarRA
+Variants found for Rabbielike/Ear/RBEarRA: 3
+Loading variants for Rabbielike/Ear/RBEarRB
+Variants found for Rabbielike/Ear/RBEarRB: 3
+
+Loaded body addon variants for Ratkin
+Loading variants for Body/RK_Tail
+Variants found for Body/RK_Tail: 1
+Loading variants for Body/RK_EarLeft
+Variants found for Body/RK_EarLeft: 1
+Loading variants for Body/RK_EarRight
+Variants found for Body/RK_EarRight: 1
+
+Loaded body addon variants for Ratkin_Su
+Loading variants for Body/RK_Tail
+Variants found for Body/RK_Tail: 1
+Loading variants for Body/RK_EarLeft
+Variants found for Body/RK_EarLeft: 1
+Loading variants for Body/RK_EarRight
+Variants found for Body/RK_EarRight: 1
+
+Loaded body addon variants for Alien_Nyaron
+Loading variants for Things/Pawn/Addons/Tails/Tail
+Variants found for Things/Pawn/Addons/Tails/Tail: 3
+Loading variants for Things/Pawn/Addons/Ears/Cat_LeftBackEar
+Variants found for Things/Pawn/Addons/Ears/Cat_LeftBackEar: 3
+Loading variants for Things/Pawn/Addons/Ears/Cat_LeftFrontEar
+Variants found for Things/Pawn/Addons/Ears/Cat_LeftFrontEar: 3
+Loading variants for Things/Pawn/Addons/Ears/Cat_RightBackEar
+Variants found for Things/Pawn/Addons/Ears/Cat_RightBackEar: 3
+Loading variants for Things/Pawn/Addons/Ears/Cat_RightFrontEar
+Variants found for Things/Pawn/Addons/Ears/Cat_RightFrontEar: 3
+
+Loaded body addon variants for Alien_Moyo
+Loading variants for Moyo/Tail/MoyoTail
+Variants found for Moyo/Tail/MoyoTail: 1
+Loading variants for Moyo/Heads/MoyoAtenna_Left
+Variants found for Moyo/Heads/MoyoAtenna_Left: 1
+Loading variants for Moyo/Heads/MoyoAtenna_Right
+Variants found for Moyo/Heads/MoyoAtenna_Right: 1
+
+Alien race successfully completed 180 patches with harmony.
+MoharFW.MoharGfx patched Mote.SpawnSetup successfully.
+MoharFW OHFP - CompEggLayer_Patch applied
+MoharFW YAHA - successfuly completed 7 harmony patches. 
+Wall Light: v1.3.7890.36463
+Locks: Doors expanded not found 
+Locks: SoS2 not found 
+[RealRuins][System]: RealRuins started patching at 9/16/2022 12:56:04 PM
+[RealRuins][System]: RealRuins performing manual patching optional mods at 9/16/2022 12:56:04 PM
+[RealRuins][System]: SRTS found, patching...
+[RealRuins][System]: RealRuins finished patching at 9/16/2022 12:56:04 PM (20.946 msec)
+Could not load reference to Verse.ThingDef named RNMeleeWeapon_Baseball_Bat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_IZh43_Shotgun 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_BenelliMontefeltro_Shotgun 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named HRK_Glock20_Pistol_C 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_Uzi_SMG 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_MAC11_SMG 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNMeleeWeapon_BrooklynSmasher_Bat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_Glock34CombatMaster_Pistol 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_STI2011CombatMaster_Pistol 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_SpringfieldXD_Pistol 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_SkorpionVZ61_SMG 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named HRK_Glock20_Pistol 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNMeleeWeapon_Kukri_Machete 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNMeleeWeapon_GerberGator_Machete 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNMeleeWeapon_Felling_Axe 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_M1911_Pistol 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_Glock17_Pistol 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_Glock18_Pistol 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_M9A1_Pistol 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_Makarov_Pistol 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_P320_Pistol 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_P226_Pistol 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_FiveSeven_Pistol 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_USP45_Pistol 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_DesertEagle_Pistol 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_PT92SF_Pistol 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNMeleeWeapon_TOPS_Machete 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_ColtCobra_Revolver 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_Model36_Revolver 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_ColtPython_Revolver 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_MP412REX_Revolver 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_STK100_Pistol 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNMeleeWeapon_USMC_Tomahawk 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNMeleeWeapon_Gerber_Tomahawk 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNMeleeWeapon_Roughneck_Handaxe 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNMeleeWeapon_GerberSurvival_Axe 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNMeleeWeapon_DMMFly_IceAxe 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNMeleeWeapon_Fire_Axe 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Kurin_Gun_Surigum 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNMeleeWeapon_Spetsnaz_Machete 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNMeleeWeapon_FirstBlood_Knife 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNMeleeWeapon_M9Bayonet_Knife 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNMeleeWeapon_Tanto_Sword 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNMeleeWeapon_KABAR_Knife 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNMeleeWeapon_M3Trench_Knife 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNMeleeWeapon_EickhornRecondoIV_Knife 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNMeleeWeapon_Karambit_Knife 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNMeleeWeapon_GerberSurvival_Knife 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNMeleeWeapon_Baseball_Bat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNMeleeWeapon_BrooklynSmasher_Bat 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNMeleeWeapon_Kukri_Machete 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNMeleeWeapon_GerberGator_Machete 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNMeleeWeapon_Felling_Axe 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNMeleeWeapon_TOPS_Machete 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNMeleeWeapon_USMC_Tomahawk 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNMeleeWeapon_Gerber_Tomahawk 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNMeleeWeapon_Roughneck_Handaxe 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNMeleeWeapon_GerberSurvival_Axe 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNMeleeWeapon_DMMFly_IceAxe 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNMeleeWeapon_Fire_Axe 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNMeleeWeapon_Spetsnaz_Machete 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNMeleeWeapon_FirstBlood_Knife 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNMeleeWeapon_M9Bayonet_Knife 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNMeleeWeapon_Tanto_Sword 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNMeleeWeapon_KABAR_Knife 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNMeleeWeapon_M3Trench_Knife 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNMeleeWeapon_EickhornRecondoIV_Knife 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNMeleeWeapon_Karambit_Knife 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNMeleeWeapon_GerberSurvival_Knife 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_M72LAW_RocketLauncher 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_HK69A1_GrenadeLauncher 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_KrissVector_PDW 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_AK74U_SMG 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_MP7A1_PDW 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_Remington870MCS_Shotgun 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_Model1897_Shotgun 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_IZh43_Shotgun 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_BenelliMontefeltro_Shotgun 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_StoegerCoachGun_Shotgun 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_ThompsonSubmachineGun_SMG 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_MP5A2_SMG 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_PPSh41_SMG 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_PP19_SMG 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_P90_PDW 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named HRK_Glock20_Pistol_C 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_Uzi_SMG 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_MAC11_SMG 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_Glock34CombatMaster_Pistol 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_STI2011CombatMaster_Pistol 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_SpringfieldXD_Pistol 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_SkorpionVZ61_SMG 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named HRK_Glock20_Pistol 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_M1911_Pistol 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_Glock17_Pistol 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_Glock18_Pistol 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_M9A1_Pistol 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_Makarov_Pistol 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_P320_Pistol 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_P226_Pistol 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_FiveSeven_Pistol 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_USP45_Pistol 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_DesertEagle_Pistol 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_PT92SF_Pistol 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_ColtCobra_Revolver 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_Model36_Revolver 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_ColtPython_Revolver 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_MP412REX_Revolver 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named RNGun_STK100_Pistol 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Kurin_Gun_Surigum 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+C:/Users/wwwLo/AppData/LocalLow/Ludeon Studios/RimWorld by Ludeon Studios\Config\VAAStuffed.xml is not found.
+Failed to find any textures at Things/Pawn/Animal/argali/argalibabyPack while constructing Multi(initPath=Things/Pawn/Animal/argali/argalibabyPack, color=RGBA(1.000, 1.000, 1.000, 1.000), colorTwo=RGBA(1.000, 1.000, 1.000, 1.000)) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Rimpedia : Fail to load pack graphics Argali[Erin's Mountain Animals] and Replace by blank graphic for Rimpedia loading. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Rimpedia Patched
+d3d11: failed to create 2D texture id=32555 width=8192 height=8192 mips=14 dxgifmt=28 [D3D error was 8007000e]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=32555 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=37227 width=256 height=256 mips=9 dxgifmt=28 [D3D error was 8007000e]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=37227 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=37229 width=256 height=256 mips=9 dxgifmt=28 [D3D error was 8007000e]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=37229 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=37253 width=128 height=128 mips=8 dxgifmt=28 [D3D error was 8007000e]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=37253 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=37255 width=128 height=128 mips=8 dxgifmt=28 [D3D error was 8007000e]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=37255 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=37257 width=128 height=128 mips=8 dxgifmt=28 [D3D error was 8007000e]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=37257 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=37261 width=128 height=128 mips=8 dxgifmt=28 [D3D error was 8007000e]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=37261 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=37263 width=128 height=128 mips=8 dxgifmt=28 [D3D error was 8007000e]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=37263 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=37271 width=128 height=128 mips=8 dxgifmt=28 [D3D error was 8007000e]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=37271 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=37277 width=128 height=128 mips=8 dxgifmt=28 [D3D error was 8007000e]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=37277 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=37279 width=128 height=128 mips=8 dxgifmt=28 [D3D error was 8007000e]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=37279 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=37281 width=128 height=128 mips=8 dxgifmt=28 [D3D error was 8007000e]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=37281 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=37283 width=128 height=128 mips=8 dxgifmt=28 [D3D error was 8007000e]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=37283 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+Crash!!!
+SymInit: Symbol-SearchPath: '.;D:\SteamLibrary\steamapps\common\RimWorld;D:\SteamLibrary\steamapps\common\RimWorld;C:\Windows;C:\Windows\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 534, UserName: 'Ernst Model'
+OS-Version: 10.0.0
+D:\SteamLibrary\steamapps\common\RimWorld\RimWorldWin64.exe:RimWorldWin64.exe (00007FF76DF20000), size: 667648 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2019.4.30.51345
+C:\Windows\SYSTEM32\ntdll.dll:ntdll.dll (00007FF912050000), size: 2060288 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1741
+C:\Windows\System32\KERNEL32.DLL:KERNEL32.DLL (00007FF911400000), size: 774144 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1741
+C:\Windows\System32\KERNELBASE.dll:KERNELBASE.dll (00007FF90FD50000), size: 2936832 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1741
+C:\Windows\SYSTEM32\apphelp.dll:apphelp.dll (00007FF90CAF0000), size: 589824 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1320
+C:\Windows\SYSTEM32\AcLayers.DLL:AcLayers.DLL (00007FF8BD6E0000), size: 4800512 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1266
+C:\Windows\System32\msvcrt.dll:msvcrt.dll (00007FF910840000), size: 647168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.0.19041.546
+C:\Windows\System32\USER32.dll:USER32.dll (00007FF911DA0000), size: 1703936 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1503
+C:\Windows\System32\win32u.dll:win32u.dll (00007FF90FD20000), size: 139264 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1766
+C:\Windows\System32\GDI32.dll:GDI32.dll (00007FF9114D0000), size: 172032 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1620
+C:\Windows\System32\gdi32full.dll:gdi32full.dll (00007FF90F770000), size: 1093632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1706
+C:\Windows\System32\msvcp_win.dll:msvcp_win.dll (00007FF90FC80000), size: 643072 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.789
+C:\Windows\System32\ucrtbase.dll:ucrtbase.dll (00007FF90F8B0000), size: 1048576 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.789
+C:\Windows\System32\SHLWAPI.dll:SHLWAPI.dll (00007FF911FB0000), size: 348160 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1706
+C:\Windows\System32\ADVAPI32.dll:ADVAPI32.dll (00007FF9104F0000), size: 712704 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1682
+C:\Windows\System32\sechost.dll:sechost.dll (00007FF911360000), size: 638976 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1586
+C:\Windows\System32\RPCRT4.dll:RPCRT4.dll (00007FF910EE0000), size: 1200128 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1706
+C:\Windows\SYSTEM32\sfc.dll:sfc.dll (0000018EC6F40000), size: 12288 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1741
+C:\Windows\SYSTEM32\WINSPOOL.DRV:WINSPOOL.DRV (00007FF8E9DF0000), size: 606208 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1706
+C:\Windows\SYSTEM32\sfc_os.DLL:sfc_os.DLL (00007FF8E97E0000), size: 73728 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1741
+C:\Windows\SYSTEM32\AcGenral.DLL:AcGenral.DLL (00007FF8F3220000), size: 438272 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1682
+C:\Windows\System32\ole32.dll:ole32.dll (00007FF9108E0000), size: 1220608 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1202
+C:\Windows\System32\combase.dll:combase.dll (00007FF910190000), size: 3489792 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1741
+C:\Windows\System32\SHELL32.dll:SHELL32.dll (00007FF911500000), size: 7618560 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1741
+C:\Windows\SYSTEM32\USERENV.dll:USERENV.dll (00007FF90F630000), size: 188416 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.572
+C:\Windows\SYSTEM32\MPR.dll:MPR.dll (00007FF8F4670000), size: 126976 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1566
+C:\Windows\SYSTEM32\SspiCli.dll:SspiCli.dll (00007FF90F660000), size: 204800 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1586
+C:\Windows\System32\IMM32.DLL:IMM32.DLL (00007FF911D70000), size: 196608 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+D:\SteamLibrary\steamapps\common\RimWorld\UnityPlayer.dll:UnityPlayer.dll (00007FF8BA740000), size: 27037696 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2019.4.30.51345
+C:\Windows\System32\SETUPAPI.dll:SETUPAPI.dll (00007FF910A10000), size: 4648960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1741
+C:\Windows\System32\cfgmgr32.dll:cfgmgr32.dll (00007FF90FC30000), size: 319488 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1620
+C:\Windows\System32\bcrypt.dll:bcrypt.dll (00007FF90F880000), size: 159744 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1023
+C:\Windows\System32\OLEAUT32.dll:OLEAUT32.dll (00007FF910770000), size: 839680 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.985
+C:\Windows\System32\CRYPT32.dll:CRYPT32.dll (00007FF90FAD0000), size: 1400832 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1320
+C:\Windows\System32\WS2_32.dll:WS2_32.dll (00007FF911F40000), size: 438272 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\VERSION.dll:VERSION.dll (00007FF90F300000), size: 40960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\OPENGL32.dll:OPENGL32.dll (00007FF8E2E90000), size: 1204224 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1741
+C:\Windows\SYSTEM32\WINMM.dll:WINMM.dll (00007FF8F3140000), size: 159744 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\HID.DLL:HID.DLL (00007FF90DBA0000), size: 53248 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\WINHTTP.dll:WINHTTP.dll (00007FF90A2F0000), size: 1089536 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1682
+C:\Windows\SYSTEM32\GLU32.dll:GLU32.dll (00007FF8E4050000), size: 180224 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1741
+E:\Steam\gameoverlayrenderer64.dll:gameoverlayrenderer64.dll (00007FF8CF140000), size: 1605632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.45.7.87
+C:\Windows\System32\PSAPI.DLL:PSAPI.DLL (00007FF911D60000), size: 32768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\kernel.appcore.dll:kernel.appcore.dll (00007FF90DF70000), size: 73728 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\System32\bcryptPrimitives.dll:bcryptPrimitives.dll (0000018EE9D80000), size: 532480 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1415
+C:\Windows\system32\uxtheme.dll:uxtheme.dll (00007FF90CCB0000), size: 647168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1620
+C:\ProgramData\A-Volute\DellInc.AlienwareSoundCenter\Modules\ScheduledModules\x64\DellInc.AlienwareSoundCenterDevProps2.dll:DellInc.AlienwareSoundCenterDevProps2.dll (00007FF8F4850000), size: 1032192 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2.5.11.0
+C:\ProgramData\A-Volute\DellInc.AlienwareSoundCenter\Modules\ScheduledModules\x64\NahimicOSD.dll:NahimicOSD.dll (00007FF8D2700000), size: 708608 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2.2.12.899
+C:\ProgramData\A-Volute\DellInc.AlienwareSoundCenter\Modules\ScheduledModules\x64\ProductInfo.dll:ProductInfo.dll (00007FF8DF5D0000), size: 135168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.5.8.0
+C:\Windows\System32\shcore.dll:shcore.dll (00007FF911CB0000), size: 708608 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1741
+C:\Windows\SYSTEM32\windows.storage.dll:windows.storage.dll (00007FF90D400000), size: 7946240 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1741
+C:\Windows\SYSTEM32\Wldp.dll:Wldp.dll (00007FF90F160000), size: 180224 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1682
+C:\Windows\SYSTEM32\profapi.dll:profapi.dll (00007FF90F6B0000), size: 126976 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.844
+D:\SteamLibrary\steamapps\common\RimWorld\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll:mono-2.0-bdwgc.dll (00007FF8BCE40000), size: 7790592 (result: 0), SymType: '-deferred-', PDB: ''
+C:\Windows\SYSTEM32\iphlpapi.dll:iphlpapi.dll (00007FF90EB60000), size: 241664 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\System32\MSCTF.dll:MSCTF.dll (00007FF9105A0000), size: 1134592 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1741
+C:\Windows\SYSTEM32\d3d11.dll:d3d11.dll (00007FF90BCA0000), size: 2502656 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1741
+C:\Windows\SYSTEM32\dxgi.dll:dxgi.dll (00007FF90DFE0000), size: 995328 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1741
+C:\Windows\System32\DriverStore\FileRepository\nvdmig.inf_amd64_e072049f66397f99\nvldumdx.dll:nvldumdx.dll (00007FF8D7240000), size: 1142784 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 31.0.15.1694
+C:\Windows\SYSTEM32\msasn1.dll:msasn1.dll (00007FF90F310000), size: 73728 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\cryptnet.dll:cryptnet.dll (00007FF902B70000), size: 200704 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.906
+C:\Windows\SYSTEM32\drvstore.dll:drvstore.dll (00007FF902BB0000), size: 1343488 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1566
+C:\Windows\SYSTEM32\devobj.dll:devobj.dll (00007FF90F330000), size: 180224 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1620
+C:\Windows\SYSTEM32\cryptbase.dll:cryptbase.dll (00007FF90F0D0000), size: 49152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\System32\WINTRUST.DLL:WINTRUST.DLL (00007FF90F9B0000), size: 421888 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1741
+C:\Windows\System32\imagehlp.dll:imagehlp.dll (00007FF910750000), size: 118784 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1415
+C:\Windows\SYSTEM32\CRYPTSP.dll:CRYPTSP.dll (00007FF90F0B0000), size: 98304 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\system32\rsaenh.dll:rsaenh.dll (00007FF90E7D0000), size: 212992 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1052
+C:\Windows\System32\DriverStore\FileRepository\nvdmig.inf_amd64_e072049f66397f99\nvwgf2umx.dll:nvwgf2umx.dll (00007FF8B60D0000), size: 44015616 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 31.0.15.1694
+C:\Windows\system32\nvspcap64.dll:nvspcap64.dll (00007FF8BCB70000), size: 2912256 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 3.25.1.27
+C:\Windows\SYSTEM32\ntmarta.dll:ntmarta.dll (00007FF90E3E0000), size: 208896 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\dxcore.dll:dxcore.dll (00007FF909EB0000), size: 241664 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\System32\clbcatq.dll:clbcatq.dll (00007FF911250000), size: 692224 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2001.12.10941.16384
+C:\Windows\system32\wbem\wbemprox.dll:wbemprox.dll (00007FF8F4580000), size: 69632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1320
+C:\Windows\SYSTEM32\wbemcomn.dll:wbemcomn.dll (00007FF8F6450000), size: 589824 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1566
+C:\Windows\system32\wbem\wbemsvc.dll:wbemsvc.dll (00007FF8F0DC0000), size: 81920 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1320
+C:\Windows\system32\wbem\fastprox.dll:fastprox.dll (00007FF8F0F20000), size: 1093632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\amsi.dll:amsi.dll (00007FF8F5040000), size: 131072 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1620
+C:\Windows\System32\MMDevApi.dll:MMDevApi.dll (00007FF906CD0000), size: 544768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1503
+C:\Windows\SYSTEM32\AudioSes.dll:AudioSes.dll (00007FF907640000), size: 1581056 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1741
+C:\Windows\SYSTEM32\powrprof.dll:powrprof.dll (00007FF90EC80000), size: 307200 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\UMPDC.dll:UMPDC.dll (00007FF90EB40000), size: 73728 (result: 0), SymType: '-deferred-', PDB: ''
+C:\Windows\SYSTEM32\PropSys.dll:PropSys.dll (00007FF90AD60000), size: 1007616 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.0.19041.1741
+C:\Windows\SYSTEM32\resourcepolicyclient.dll:resourcepolicyclient.dll (00007FF90CE10000), size: 81920 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\xinput1_3.dll:xinput1_3.dll (0000000000400000), size: 122880 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 9.18.944.0
+C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_4de65d949492707a\igd10iumd64.dll:igd10iumd64.dll (00007FF901290000), size: 18751488 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 27.20.100.9664
+C:\Windows\SYSTEM32\ncrypt.dll:ncrypt.dll (00007FF90F1D0000), size: 159744 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.662
+C:\Windows\SYSTEM32\NTASN1.dll:NTASN1.dll (00007FF90F190000), size: 241664 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_4de65d949492707a\igdgmm64.dll:igdgmm64.dll (00007FF900910000), size: 3366912 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 27.20.100.9664
+C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_4de65d949492707a\igc64.dll:igc64.dll (00007FF8FDB80000), size: 47771648 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 27.20.100.9664
+C:\Windows\SYSTEM32\dcomp.dll:dcomp.dll (00007FF90BF10000), size: 1982464 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1741
+C:\Windows\SYSTEM32\dwmapi.dll:dwmapi.dll (00007FF90CF10000), size: 192512 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\Windows\SYSTEM32\textinputframework.dll:textinputframework.dll (00007FF8E5EA0000), size: 1019904 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1741
+C:\Windows\System32\CoreMessaging.dll:CoreMessaging.dll (00007FF90C8C0000), size: 991232 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\Windows\System32\CoreUIComponents.dll:CoreUIComponents.dll (00007FF90C100000), size: 3530752 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\wintypes.dll:wintypes.dll (00007FF90B120000), size: 1392640 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1682
+D:\SteamLibrary\steamapps\common\RimWorld\RimWorldWin64_Data\Plugins\x86_64\steam_api64.dll:steam_api64.dll (00007FF8F31D0000), size: 311296 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.91.21.57
+E:\Steam\steamclient64.dll:steamclient64.dll (00007FF8B4BA0000), size: 22179840 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.45.7.87
+E:\Steam\vstdlib_s64.dll:vstdlib_s64.dll (00007FF8EA2E0000), size: 528384 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.45.7.87
+E:\Steam\tier0_s64.dll:tier0_s64.dll (00007FF8CEFC0000), size: 1523712 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.45.7.87
+C:\Windows\SYSTEM32\MSWSOCK.dll:MSWSOCK.dll (00007FF90EEC0000), size: 434176 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\Secur32.dll:Secur32.dll (00007FF8FB4E0000), size: 49152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\System32\Windows.UI.dll:Windows.UI.dll (00007FF8E54D0000), size: 1314816 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\Windows\System32\WindowManagementAPI.dll:WindowManagementAPI.dll (00007FF909610000), size: 659456 (result: 0), SymType: '-deferred-', PDB: ''
+C:\Windows\System32\InputHost.dll:InputHost.dll (00007FF8E5D10000), size: 1384448 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1741
+C:\Windows\SYSTEM32\twinapi.appcore.dll:twinapi.appcore.dll (00007FF908F10000), size: 2097152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1741
+C:\Windows\SYSTEM32\Msacm32.DLL:Msacm32.DLL (00007FF8F7500000), size: 122880 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1
+C:\Windows\SYSTEM32\winmmbase.dll:winmmbase.dll (00007FF8F7F70000), size: 155648 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1
+C:\Windows\System32\l3codeca.acm:l3codeca.acm (00007FF909940000), size: 110592 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.9.0.401
+C:\Windows\System32\NSI.dll:NSI.dll (00007FF9114C0000), size: 32768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.610
+C:\Windows\SYSTEM32\dhcpcsvc6.DLL:dhcpcsvc6.DLL (00007FF907860000), size: 94208 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\dhcpcsvc.DLL:dhcpcsvc.DLL (00007FF907490000), size: 118784 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\DNSAPI.dll:DNSAPI.dll (00007FF90EBB0000), size: 831488 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1620
+C:\Windows\System32\fwpuclnt.dll:fwpuclnt.dll (00007FF906230000), size: 524288 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1741
+C:\Windows\System32\rasadhlp.dll:rasadhlp.dll (00007FF9077D0000), size: 40960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\gpapi.dll:gpapi.dll (00007FF90DF90000), size: 143360 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1682
+C:\Windows\SYSTEM32\dbghelp.dll:dbghelp.dll (00007FF90DC70000), size: 1982464 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.867
+
+========== OUTPUTTING STACK TRACE ==================
+
+0x00007FF8BACD313F (UnityPlayer) UnityMain
+0x00007FF8BACD2CC9 (UnityPlayer) UnityMain
+0x00007FF8BACD090A (UnityPlayer) UnityMain
+0x00007FF8BACCD01C (UnityPlayer) UnityMain
+0x00007FF8BACCF59F (UnityPlayer) UnityMain
+0x00007FF8BACD01F7 (UnityPlayer) UnityMain
+0x00007FF8BAF5A4B5 (UnityPlayer) UnityMain
+  ERROR: SymGetSymFromAddr64, GetLastError: '试图访问无效的地址。
+' (Address: 00007FF8BA8064E8)
+0x00007FF8BA8064E8 (UnityPlayer) (function-name not available)
+0x00007FF8BAE0241F (UnityPlayer) UnityMain
+0x00007FF8BADD968A (UnityPlayer) UnityMain
+0x00007FF8BADD93F1 (UnityPlayer) UnityMain
+0x00007FF8BADD8F83 (UnityPlayer) UnityMain
+0x00007FF8BADB0375 (UnityPlayer) UnityMain
+0x00007FF8BB0C9A0A (UnityPlayer) UnityMain
+0x000001907F9E84F0 (Mono JIT Code) (wrapper managed-to-native) UnityEngine.Texture2D:Internal_CreateImpl (UnityEngine.Texture2D,int,int,int,UnityEngine.Experimental.Rendering.GraphicsFormat,UnityEngine.Experimental.Rendering.TextureCreationFlags,intptr)
+0x000001907F9E8353 (Mono JIT Code) UnityEngine.Texture2D:Internal_Create (UnityEngine.Texture2D,int,int,int,UnityEngine.Experimental.Rendering.GraphicsFormat,UnityEngine.Experimental.Rendering.TextureCreationFlags,intptr)
+0x000001907F9E43BB (Mono JIT Code) UnityEngine.Texture2D:.ctor (int,int,UnityEngine.TextureFormat,int,bool,intptr)
+0x000001907F9E4293 (Mono JIT Code) UnityEngine.Texture2D:.ctor (int,int)
+0x00000191F7A328CB (Mono JIT Code) Verse.TextureAtlasHelper:MakeReadableTextureInstance (UnityEngine.Texture2D)
+0x00000191F7A3272B (Mono JIT Code) Verse.StaticTextureAtlas/<>c__DisplayClass18_0:<Bake>b__0 (UnityEngine.Texture2D)
+0x0000018EC2EEEF0C (Mono JIT Code) System.Linq.Enumerable/SelectListIterator`2<TSource_REF, TResult_REF>:ToArray ()
+0x0000018EC2EACB97 (Mono JIT Code) System.Linq.Enumerable:ToArray<TSource_REF> (System.Collections.Generic.IEnumerable`1<TSource_REF>)
+0x00000191F7A3169B (Mono JIT Code) Verse.StaticTextureAtlas:Bake (bool)
+0x00000191F7A30E1B (Mono JIT Code) Verse.GlobalTextureAtlasManager:<BakeStaticAtlases>g__FlushBatch|7_0 (Verse.TextureAtlasGroupKey,Verse.GlobalTextureAtlasManager/<>c__DisplayClass7_0&)
+0x00000191F7A3030B (Mono JIT Code) Verse.GlobalTextureAtlasManager:BakeStaticAtlases ()
+0x00000190EFB7EE23 (Mono JIT Code) Verse.PlayDataLoader/<>c:<DoPlayLoad>b__4_3 ()
+0x0000018EC02DB5CC (Mono JIT Code) Verse.LongEventHandler:ExecuteToExecuteWhenFinished ()
+0x0000018EC02DBCCB (Mono JIT Code) Verse.LongEventHandler:UpdateCurrentAsynchronousEvent ()
+0x000001907D9AAAA3 (Mono JIT Code) Verse.LongEventHandler:LongEventsUpdate (bool&)
+0x0000018EC2EDF1D3 (Mono JIT Code) (wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+0x000001907D9A982B (Mono JIT Code) Verse.Root_Entry:Update ()
+0x0000018EE9E8EC30 (Mono JIT Code) (wrapper runtime-invoke) object:runtime_invoke_void__this__ (object,intptr,intptr,intptr)
+0x00007FF8BCF6E270 (mono-2.0-bdwgc) mono_get_runtime_build_info
+0x00007FF8BCEF2AE2 (mono-2.0-bdwgc) mono_perfcounters_init
+0x00007FF8BCEFBB3F (mono-2.0-bdwgc) mono_runtime_invoke
+0x00007FF8BB01606D (UnityPlayer) UnityMain
+0x00007FF8BB013443 (UnityPlayer) UnityMain
+0x00007FF8BAFFC603 (UnityPlayer) UnityMain
+0x00007FF8BAFFC6BD (UnityPlayer) UnityMain
+0x00007FF8BAD88110 (UnityPlayer) UnityMain
+0x00007FF8BAED63C7 (UnityPlayer) UnityMain
+0x00007FF8BAED6463 (UnityPlayer) UnityMain
+0x00007FF8BAED88BC (UnityPlayer) UnityMain
+  ERROR: SymGetSymFromAddr64, GetLastError: '试图访问无效的地址。
+' (Address: 00007FF8BAC8751E)
+0x00007FF8BAC8751E (UnityPlayer) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: '试图访问无效的地址。
+' (Address: 00007FF8BAC8627A)
+0x00007FF8BAC8627A (UnityPlayer) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: '试图访问无效的地址。
+' (Address: 00007FF8BAC8A32C)
+0x00007FF8BAC8A32C (UnityPlayer) (function-name not available)
+0x00007FF8BAC8DE1B (UnityPlayer) UnityMain
+  ERROR: SymGetSymFromAddr64, GetLastError: '试图访问无效的地址。
+' (Address: 00007FF76DF211F2)
+0x00007FF76DF211F2 (RimWorldWin64) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: '找不到指定的模块。
+' (Address: 00007FF911417034)
+0x00007FF911417034 (KERNEL32) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: '找不到指定的模块。
+' (Address: 00007FF9120A2651)
+0x00007FF9120A2651 (ntdll) (function-name not available)
+
+========== END OF STACKTRACE ===========
+
+A crash has been intercepted by the crash handler. For call stack and other details, see the latest crash report generated in:
+ * C:/Users/wwwLo/AppData/Local/Temp/Ludeon Studios/RimWorld by Ludeon Studios/Crashes
